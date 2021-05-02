@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "sFqUHWO/HenSdSTNyOkt12n4zSisveu6fYO8dJre6o1Sp3V8jGAiloGss5cnjXKa4HfZxB4BX4yaBw1C3tqTXA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\coqui\\source\\repos\\testeApi\\testeApi\\testeApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\coqui\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
